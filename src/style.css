@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+}
+
+.ship {
+  position: fixed;
+  height: 100px;
+  width: 100px;
+}
+
+.entity {
+  position: fixed;
+}
+
+.bullet {
+  background-color: cyan;
+  width: 4px;
+  height: 12px;
+}
